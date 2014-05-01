@@ -1,17 +1,18 @@
 {
-  "name": "sourcemaps",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": "",
-  "author": "",
-  "license": "BSD",
-  "devDependencies": {
-    "gulp": "*",
-    "gulp-preprocess": "*",
-    "gulp.spritesmith": "^0.5.0"
-  }
+    "name": "gulp Taskrunner",
+    "version": "0.0.1",
+    "description": "",
+    "main": "",
+    "scripts": {
+        "test": ""
+    },
+    "repository": "",
+    "author": "",
+    "license": "",
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-connect": "*",
+        "gulp-preprocess": "*",
+        "gulp.spritesmith": "^0.5.0"
+    }
 }

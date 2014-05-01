@@ -1,7 +1,8 @@
 body {
-  background: red;
+  background: #ffc0cb;
 }
-
 h1 {
-	font-size: 4em;
+  font-size: 4em;
+  border-bottom: 20px solid palevioletred;
 }
+/*# sourceMappingURL=data:application/json,%7B%22version%22%3A3%2C%22sources%22%3A%5B%22%2Fstyle%2Fstyle.less%22%5D%2C%22names%22%3A%5B%5D%2C%22mappings%22%3A%22AAEA%3BEACI%2CmBAAA%3B%3BAAGJ%3BEACI%2CcAAA%3BEACA%2CuCAAA%22%7D */
